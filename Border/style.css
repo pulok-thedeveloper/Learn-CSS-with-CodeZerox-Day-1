@@ -1,0 +1,34 @@
+#div1,
+#div2,
+#div3 {
+  width: 300px;
+  height: 300px;
+  background: pink;
+  /* border-width: 2px;
+    border-style: solid;
+    border-color: red; */
+  /* border: 2px  solid red; */
+  /* border: 2px solid red; */
+  /* border-left: 50px solid green;
+  border-top: 5px solid red;
+  border-right: 10px solid violet;
+  border-bottom: 50px solid blue; */
+
+  border-width: 5px 10px 50px 50px;
+  border-style: solid dashed dotted solid;
+  border-color: red green yellow blue;
+  /* border-width: 5px 20px 50px 1px; */
+  /* border-radius: 50%; */
+}
+#div2 {
+  border: 2px dotted red;
+}
+#div3 {
+  border: 2px dashed red;
+}
+#div4 {
+  border: 2px double red;
+}
+#div5 {
+  border: 2px groove red;
+}

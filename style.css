@@ -1,0 +1,22 @@
+h1{
+    font-size: 20px;
+}
+
+.para1{
+    color: red;
+}
+.para2{
+    color: violet;
+}
+
+#para3{
+    color: blue;
+}
+
+#para4{
+    color: yellow;
+}
+
+#fruitsList ol{
+    font-weight: 600;
+}

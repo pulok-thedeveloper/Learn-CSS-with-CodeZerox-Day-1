@@ -1,0 +1,28 @@
+.div1 {
+  height: 100px;
+  background: brown;
+  display: block;
+}
+.div2 {
+  height: 100px;
+  background: greenyellow;
+  display: inline;
+}
+.div3 {
+  height: 100px;
+  background: black;
+}
+.div4 {
+  height: 100px;
+  background: pink;
+  visibility: hidden;
+}
+
+a {
+  background-color: violet;
+  padding: 10px;
+  /* display: inline-block; */
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+}
